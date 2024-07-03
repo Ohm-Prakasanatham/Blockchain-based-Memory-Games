@@ -1,5 +1,5 @@
 # Blockchain-based-Memory-Games
-This Project is my submission for the Information System Security Program Core 4 Credits Course in VIT,Vellore.
+
 
 After running the code, our game will open in blockchain enabled browser. We have to login to our metamask wallet to start playing the game. Because we have to connect with Ethereum blockchain to play our Blockchain Based Memory Game.
 
